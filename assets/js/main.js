@@ -1,0 +1,5 @@
+require.context(
+  '../img',
+  true,
+  /.*/,
+);
